@@ -15,7 +15,7 @@ function App() {
       <Routes>
         
         <Route path="/ourmenu" element={<OurMenu />} />
-        <Route path="/about" element={<About />} />
+        {/* <Route path="/about" element={<About />} /> */}
         <Route path="/addmenu" element={<Addmenu />} />
         <Route path="/contact" element={<Contact />} />
         <Route path="/update-menu/:id" element={<Updatemenu/>} />
