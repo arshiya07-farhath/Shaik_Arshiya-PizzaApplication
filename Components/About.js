@@ -29,7 +29,7 @@ class About extends Component {
                 </div>
               </div>
               <h1 className="display-5 fw-bold lh-1 mb-3">
-                Welcome to Pizza Palace
+                {/* Welcome to Pizza Palace */}
               </h1>
               <p className="lead">
                 Indulge into our Exotic range of pizzas. Now available on Swiggy
