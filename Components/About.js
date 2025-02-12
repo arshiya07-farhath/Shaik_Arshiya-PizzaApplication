@@ -32,9 +32,9 @@ class About extends Component {
                 Welcome to Pizza Palace
               </h1>
               <p className="lead">
-                Indulge into our Exotic range of pizzas. Now available on Swiggy
+                {/* Indulge into our Exotic range of pizzas. Now available on Swiggy
                 and Zomato. Delivered piping hot to your doorstep in a blink in
-                our specially designed packaging.
+                our specially designed packaging. */}
               </p>
              
               <div className="d-grid gap-2 d-md-flex justify-content-md-start">
