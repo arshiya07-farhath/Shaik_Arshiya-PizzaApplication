@@ -29,18 +29,18 @@ class About extends Component {
                 </div>
               </div>
               <h1 className="display-5 fw-bold lh-1 mb-3">
-                Welcome to Pizza Palace
+                {/* Welcome to Pizza Palace */}
               </h1>
               <p className="lead">
-                Indulge into our Exotic range of pizzas. Now available on Swiggy
+                {/* Indulge into our Exotic range of pizzas. Now available on Swiggy
                 and Zomato. Delivered piping hot to your doorstep in a blink in
-                our specially designed packaging.
+                our specially designed packaging. */}
               </p>
              
-              <div className="d-grid gap-2 d-md-flex justify-content-md-start">
+              {/* <div className="d-grid gap-2 d-md-flex justify-content-md-start">
               <a href="http://localhost:3001/ourmenu"><button type="button" class="btn btn-primary active" >Specials</button></a>
                  <a href="http://localhost:3001/contact"><button type="button"  className="btn btn-outline-secondary btn-lg px-4"> Contact</button></a>
-              </div>
+              </div> */}
             </div>
           </div>
         </div>
